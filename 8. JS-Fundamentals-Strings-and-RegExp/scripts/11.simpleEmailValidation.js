@@ -1,0 +1,1 @@
+(email) => /\b[a-zA-Z\d]+@[a-z]+\.[a-z]+\b/g.test(email) ? 'Valid' : 'Invalid'

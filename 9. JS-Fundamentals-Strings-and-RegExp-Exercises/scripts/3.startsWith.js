@@ -1,0 +1,1 @@
+(main, substr) => main.startsWith(substr)
